@@ -1,0 +1,17 @@
+body{
+ color: black;
+ background-color: aliceblue;
+
+}
+img {
+width: 200px;
+height: auto;
+border-spacing: 10%;
+
+}
+.BobEsponja{
+display: flex;
+border-radius: 50%;
+
+
+}

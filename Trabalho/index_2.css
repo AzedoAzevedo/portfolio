@@ -1,0 +1,16 @@
+body{
+    color: black;
+    background-color: burlywood;
+
+       }
+       img {
+       width: 200px;
+       height: auto;
+       border-spacing: 10%;
+       
+       }
+       .PatrickEstrela{
+       display: flex;
+       
+       
+       }
